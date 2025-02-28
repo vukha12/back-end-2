@@ -1,1 +1,2 @@
-Pull lênn branch w1
+Đây là file week1.txt
+Thuộc branch: week1
